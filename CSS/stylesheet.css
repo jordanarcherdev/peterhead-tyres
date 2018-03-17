@@ -1,0 +1,85 @@
+.headCont{
+  float: right;
+  font-family: calibri;
+  font-size: 2em;
+  margin-left: 60%;
+}
+
+#bikespecs{
+	border: 2px solid #4e4eec;
+  margin-bottom: 5%;
+
+}
+
+th, td{
+	border-bottom: 1px solid #4e4eec;
+  	border-right: 1px solid #4e4eec;
+}
+
+tr:hover {
+  	background-color: #add8e6;
+  	color: black;
+}
+
+#pitBike{
+  border: 2px solid #add8e6;
+  border-radius: 12px;
+  height: 20%;
+}
+
+.leftTyre{
+  positon: absolute;
+}
+
+.leftTyre img{
+  width: 100%;
+  border-radius: 12px;
+}
+
+.rightTyre img{
+  margin-left: 23%;
+  align: right;
+  border-radius: 12px;
+}
+
+.spareTabs a{
+  margin-left; 5%;
+}
+
+.tabCont{
+  float: right !important;
+  display: block;
+  margin-top; 5%;
+}
+
+.tabImg{
+  position: absolute;
+}
+
+.imageTab{
+  margin-top: 5%;
+  border-radius: 12px;
+  border: 2px solid #add8e6;
+  width: 85%;
+  margin-bottom: 10%;
+}
+
+#filter{
+  width: 100%;
+}
+
+#fildiv{
+  width: 50%;
+}
+
+#filcont{
+  margin-left: 5%;
+}
+
+#chaindiv{
+  width: 50%;
+}
+
+#sprockdiv{
+  width: 50%;
+}
